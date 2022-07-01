@@ -1,29 +1,52 @@
+- [Versão em português](#versão-em-português)
+# Trivia Project
 
-# Habilidades
 
-Nesse projeto, você será capaz de:
 
-  - Criar um store Redux em aplicações React
 
-  - Criar reducers no Redux em aplicações React
 
-  - Criar actions no Redux em aplicações React
 
-  - Criar dispatchers no Redux em aplicações React
 
-  - Conectar Redux aos componentes React
 
+
+
+
+
+
+
+
+
+
+### Versão em português
+# Projeto Trivia
+Esta aplicação foi desenvolvida em grupo, aplicando conceitos de metodologias ágeis (trello), por:
+- [Alexandre Teixeira](https://github.com/AlexandreSullivanTeixeira);
+- [Arthur Ferreira](https://github.com/ClawNarok);
+- [Fernando Braga](https://github.com/FerBraga);
+- [Miguel Lofredo](https://github.com/miguellofredo85);
+- [Rafael Godoy](https://github.com/Rafaqfg);
+- [Tássio Medeiros](https://github.com/Tassio-Med);
+
+#### O código deste projeto foi escrito em sua maior parte durante pair programming com todos os integrantes do grupo, já o componente Timer.jsx foi    desenvolvido apenas por mim.
+
+## Principais habilidades desenvolvidas
+
+  - Criar store, reducers, actions e dispatchers no Redux em aplicações React.JS;
+  - Trabalhar em equipe;
+  - Trabalhar com o ciclo de vida dos componentes React.JS;
+  - Conectar Redux aos componentes React.JS;
+  - Trabalhar com BrowserRouter;
   - Criar actions assíncronas na sua aplicação React que faz uso de Redux.
 
+## Funcionalidades da aplicação
+Neste projeto tivemos de desenvolver um jogo de perguntas e respostas baseado no jogo **Trivia** utilizando _React e Redux_.
+ Ele foi desenvolvido em grupo e suas funcionalidades foram criadas de acordo com as demandas definidas em um quadro _Kanban_.
+Nesta aplicação a pessoa usuária é capaz de:
 
-
-## O que deverá ser desenvolvido
-
-Você deverá desenvolver um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_ utilizando _React e Redux_, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro _Kanban_. Confira o Slack para saber como acessar o quadro! Para viver um cenário mais próximo do mercado de trabalho, você deve fazer uma cópia desse quadro para utilizar com seu grupo. É de suma importância que o grupo se organize utilizando o quadro para maior eficiência e para que se minimizem os conflitos que a união de vários códigos trará. A partir dessas demandas, teremos uma aplicação onde a pessoa usuária poderá:
-
-  - Logar no jogo e, se o email tiver cadastro no site [Gravatar](https://pt.gravatar.com/), ter sua foto associada ao perfil da pessoa usuária.
-  - Acessar a página referente ao jogo, onde se deverá escolher uma das respostas disponíveis para cada uma das perguntas apresentadas. A resposta deve ser marcada antes do contador de tempo chegar a zero, caso contrário a resposta deverá ser considerada errada.
-  - Ser redirecionada, após 5 perguntas respondidas, para a tela de score, onde o texto mostrado depende do número de acertos.
-  - Visualizar a página de ranking, se quiser, ao final de cada jogo.
+  - Logar no jogo e, se o email tiver cadastro no site [Gravatar](https://pt.gravatar.com/), ter sua foto associada ao perfil da pessoa usuária;
+  - Acessar a página referente ao jogo, onde se deverá escolher uma das respostas disponíveis para cada uma das perguntas apresentadas. A resposta deve         ser marcada antes do contador de tempo chegar a zero;
+  - Ser redirecionada, após 5 perguntas respondidas, para a tela de score, onde o texto mostrado depende do número de acertos;
+  - Visualizar a página de ranking, se quiser, ao final de cada jogo;
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
+  
 
