@@ -30,6 +30,28 @@ In this application the user is capable of:
  -	Set some options for the game in a setting screen accessible by the heading of the app.
 
 
+## How to run the application (door 3000 must be avaible)<br>
+Clone the repository
+```bash
+  git clone git@github.com:Rafaqfg/Project-Trivia-react-redux.git
+```
+Enter in the project folder
+```bash
+  cd git@github.com:Rafaqfg/Project-Trivia-react-redux.git
+```
+Install the dependencies
+```bash
+  npm install
+```
+Start the application
+```bash
+  npm start
+```
+Make the login
+```bash
+   nome: Rafael
+   email: rafa.qfg@gmail.com
+```
 
 ### Versão em português
 # Projeto Trivia
